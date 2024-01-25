@@ -1,3 +1,5 @@
+PhD Student in metabolomics research with a strong interest in bioinformatics & biostatistics.
+Always looking for exciting open-source tools for processing and analysis of mass spec data. 
 
 
 <!---
