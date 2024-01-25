@@ -1,5 +1,8 @@
-PhD Student in metabolomics research with a strong interest in bioinformatics & biostatistics.
-Always looking for exciting open-source tools for processing and analysis of mass spec data. 
+👩‍💻 PhD Student in metabolomics research with a strong interest in bioinformatics & biostatistics. \
+👀 Always looking for exciting open-source tools for processing and analysis of mass spec data. \
+🥰 Favors multidisciplinary research and multi-omics integration projects \
+🧐 Still trying to improve as a developer / statistician, mostly coding in R and Python \
+👨‍🎓 Master in bioscience engineering, cell & gene biotechnology
 
 
 <!---
